@@ -1,6 +1,6 @@
 def say_hello (phrase = "Ruby Programmer")
   
-  puts "Hello"
+  puts "Hello #{phrase} !"
   
 end
 
